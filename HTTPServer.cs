@@ -72,7 +72,7 @@ namespace EchoServer
                 {
                     case "/":
                         responseString = CreateHTMLResponse("""
-                            <h1>Добро пожаловать на простой HTTP сервер!</h1>
+                            <h1>Меню</h1>
                             <p>Доступные страницы:</p>
                             <ul>
                                 <li><a href="/time">Текущее время</a></li>
