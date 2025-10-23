@@ -26,7 +26,9 @@
 
 ### Взаимодействие компонентов:
 TCP Client ←→ TCP Server (порт 8888)
+
 HTTP Browser ←→ HTTP Server (порт 8080)
+
 Program.cs (координатор)
 
 ### TCP Сервер
